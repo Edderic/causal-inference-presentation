@@ -1,4 +1,4 @@
-name: panorama-causal-inf-presentation
+name: causal-inf-experiments
 channels:
   - conda-forge
 dependencies:
@@ -6,7 +6,7 @@ dependencies:
   - jupyterlab=0.35.4
   - pandas=0.24.0
   - numpy=1.16.2
-  - pymc3=3.6
+  - pymc3=3.8
   - theano=1.0.4
   - scipy=1.2.1
   - seaborn=0.9.0
